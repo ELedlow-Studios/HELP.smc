@@ -10,21 +10,7 @@ This is the last footage of him playing it on his emulator before he went missin
 
 ## - Footage -
 
-### 1. Distortion
-
-<video width="320" height="240" controls>
-<source src="https://cdn.glitch.me/ab3d8527-b8ec-469a-9c3d-af065e4c9978/Distortion.mp4?v=1721406518459" type="video/mp4">
-Your browser does not support the video tag and doesn't support this version of markdown.
-</video>
-
-### 2. Should've Went Back
-
-<video width="320" height="240" controls>
-<source src="https://cdn.glitch.me/ab3d8527-b8ec-469a-9c3d-af065e4c9978/Should've%20went%20back.mp4?v=1721406561882" type="video/mp4">
-Your browser does not support the video tag and doesn't support this version of markdown.
-</video>
-
-More analogs will come soon.
+Avalible on [ELedlow Studios](https://eledlow-studios.github.io/HELP.smc/)
 
 ## - Disclamer -
 
