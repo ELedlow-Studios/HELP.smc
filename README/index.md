@@ -1,3 +1,10 @@
+<link rel="apple-touch-icon" sizes="180x180" href="https://cdn.jsdelivr.net/gh/Breakout-X/breakout-x.github.io@gh-pages/static/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://cdn.jsdelivr.net/gh/Breakout-X/breakout-x.github.io@gh-pages/static/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://cdn.jsdelivr.net/gh/Breakout-X/breakout-x.github.io@gh-pages/static/icons/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://cdn.jsdelivr.net/gh/Breakout-X/breakout-x.github.io@gh-pages/static/icons/favicon-16x16.png">
+<link rel="mask-icon" href="https://cdn.jsdelivr.net/gh/Breakout-X/breakout-x.github.io@gh-pages/static/icons/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/Breakout-X/breakout-x.github.io@gh-pages/static/icons/favicon.ico">
+
 # - HELP.smc Analog Videos -
 
 ## - Lore -
