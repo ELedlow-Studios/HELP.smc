@@ -40,7 +40,15 @@ However, you can still download the hack(s) using the links below, and you can p
 
 ## - ROMs -
 
-### Version 4 - Latest
+### Version 6 - Latest
+[Download](https://eledlow-studios.github.io/HELP.smc/ROMS/HELP%20V6.smc)
+! Level "2EA0A6A7A8B3B3B3A9B0C0D0ABC8C6D7E0EFAB" is STILL under construction and is not beatable.
+
+### Version 5
+[Download](https://eledlow-studios.github.io/HELP.smc/ROMS/HELP%20V5.smc)
+! Level "2EA0A6A7A8B3B3B3A9B0C0D0ABC8C6D7E0EFAB" is under construction and is not beatable. However it is fun though.
+
+### Version 4
 [Download](https://eledlow-studios.github.io/HELP.smc/ROMS/HELP%20V4.smc)
 ! Level "2EA0A6A7A8B3B3B3A9B0C0D0ABC8C6D7E0EFAB" is under construction and is not beatable.
 
