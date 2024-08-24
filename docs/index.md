@@ -39,8 +39,9 @@ Because of **Copyright law**, the **original** Mario World ROM or the **emulator
 However, you can still download the hack(s) using the links below, and you can play them using **SNES9X** (SNES9+ EX on mobile) or any emulator that runs `.smc` files.
 
 ## - ROMs -
+To find the latest ROMs rather than the legacy ROMs, go [here](https://eledlow-studios.github.io/HELP.smc/).
 
-### Version 6 - Latest
+### Version 6
 [Download](https://eledlow-studios.github.io/HELP.smc/ROMS/HELP%20V6.smc)
 ! Level "2EA0A6A7A8B3B3B3A9B0C0D0ABC8C6D7E0EFAB" is STILL under construction and is not beatable.
 
