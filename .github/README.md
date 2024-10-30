@@ -1,8 +1,6 @@
 ## HELP.smc BPS Release Notes
 
-### Current Version: v0.00.0
 
-**Release Date:** DDD, MMM DDD YYYY
 
 ---
 
@@ -26,3 +24,5 @@ This release introduces the BPS patch for **HELP.smc**, allowing you to experien
 - For more information and updates, visit the [HELP.smc GitHub Pages](https://eledlow-studios.github.io/help.smc/).
 
 ---
+## Current Version: ## Current Version: v3.13.0
+**Release Date:** **Release Date:** Wed, Oct 30, 2024
