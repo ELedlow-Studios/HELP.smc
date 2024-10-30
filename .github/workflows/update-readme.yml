@@ -2,6 +2,8 @@ name: Update README with Latest Version
 
 on:
   push:
+    branches:
+      - main
     tags:
       - 'v*'
 
