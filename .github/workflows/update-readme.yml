@@ -26,8 +26,10 @@ jobs:
         run: |
           version=$(cat VERSION.txt)
           date=$(cat DATE.txt)
-          sed -i 's/## Current Version:.*/## Current Version: '"$version"'/' .github/README.md
-          sed -i 's/**Release Date:**.*/**Release Date:** '"$date"'/' .github/README.md
+          grep -v '## Current Version:' .github/README.md > temp && mv temp .github/README.md
+          echo "## Current Version: $version" >> .github/README.md
+          grep -v '**Release Date:**' .github/README.md > temp && mv temp .github/README.md
+          echo "**Release Date:** $date" >> .github/README.md
 
       - name: Commit changes
         run: |
