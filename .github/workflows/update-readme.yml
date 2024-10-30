@@ -26,14 +26,14 @@ jobs:
         run: |
           version=$(cat VERSION.txt)
           date=$(cat DATE.txt)
-          sed -i 's/## Current Version:.*/## Current Version: '"$version"'/' README.md
-          sed -i 's/**Release Date:**.*/**Release Date:** '"$date"'/' README.md
+          sed -i 's/## Current Version:.*/## Current Version: '"$version"'/' .github/README.md
+          sed -i 's/**Release Date:**.*/**Release Date:** '"$date"'/' .github/README.md
 
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add README.md
+          git add .github/README.md
           git commit -m "Update README with latest version and date"
           git push
           
