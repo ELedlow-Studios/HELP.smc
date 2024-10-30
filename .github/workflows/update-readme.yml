@@ -18,14 +18,14 @@ jobs:
         id: get_version
         run: |
           echo "## Current Version: $(git describe --tags --abbrev=0)" > VERSION
-          echo "Release Date: $(date +'%a, %b %d, %Y')" > DATE
+          echo "**Release Date:** $(date +'%a, %b %d, %Y')" > DATE
 
       - name: Update README
         run: |
           version=$(cat VERSION)
           date=$(cat DATE)
           sed -i "s/## Current Version:.*/## Current Version: $version/" README.md
-          sed -i "s/Release Date:.*/**Release Date:** $date/" README.md
+          sed -i "s/**Release Date:**.*/**Release Date:** $date/" README.md
 
       - name: Commit changes
         run: |
