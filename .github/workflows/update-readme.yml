@@ -39,3 +39,6 @@ jobs:
           git add .github/README.md
           git commit -m "Update README with latest version and date"
           git push
+
+      - name: Cleanup temp files
+        run: rm -rf .temp
