@@ -1,4 +1,4 @@
-name: Update README with Latest Version
+name: Update README with Latest Version and Date
 
 on:
   push:
@@ -38,4 +38,3 @@ jobs:
           git add .github/README.md
           git commit -m "Update README with latest version and date"
           git push
-          
