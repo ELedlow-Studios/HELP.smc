@@ -19,13 +19,14 @@ jobs:
         run: |
           VERSION=$(git describe --tags $(git rev-list --tags --max-count=1) 2>/dev/null || echo "v3.13.0")
           DATE=$(date +'%a, %b %d, %Y')
-          echo "**Current Version:** $VERSION" > VERSION.txt
-          echo "**Release Date:** $(date +'%a, %b %d, %Y' || echo "Wed, Oct 30, 2024")" > DATE.txt
+          mkdir -p .temp
+          echo "**Current Version:** $VERSION" > .temp/VERSION.txt
+          echo "**Release Date:** $(date +'%a, %b %d, %Y' || echo "Wed, Oct 30, 2024")" > .temp/DATE.txt
 
       - name: Update README
         run: |
-          version=$(cat VERSION.txt)
-          date=$(cat DATE.txt)
+          version=$(cat .temp/VERSION.txt)
+          date=$(cat .temp/DATE.txt)
           grep -v '**Current Version:**' .github/README.md > temp && mv temp .github/README.md
           echo "$version <br>" >> .github/README.md
           grep -v '**Release Date:**' .github/README.md > temp && mv temp .github/README.md
