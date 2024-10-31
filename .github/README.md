@@ -1,7 +1,5 @@
 ## HELP.smc BPS Release Notes
 
-
-
 ---
 
 ### Overview:
@@ -21,9 +19,9 @@ This release introduces the BPS patch for **HELP.smc**, allowing you to experien
 
 ### Important Notes:
 - Please do not distribute the patched ROM. Share only the BPS patch.
-- For more information and updates, visit the [HELP.smc GitHub Pages](https://eledlow-studios.github.io/help.smc/).
+- For more information and updates, visit the [HELP.smc GitHub Pages](https://eledlow-studios.github.io/HELP.smc/).
 
 ---
 
 **Current Version:** v3.13.0 <br>
-**Release Date:** Thu, Oct 31, 2024
+**Release Date/Latest Commit:** Thu, Oct 31, 2024
