@@ -1,8 +1,6 @@
 ## HELP.smc BPS Release Notes
 
-**Current Version:** v3.13.0
 
-**Release Date:** Thu, Oct 31, 2024
 
 ---
 
@@ -27,3 +25,5 @@ This release introduces the BPS patch for **HELP.smc**, allowing you to experien
 
 ---
 
+**Current Version:** v3.13.0
+**Release Date:** Thu, Oct 31, 2024
