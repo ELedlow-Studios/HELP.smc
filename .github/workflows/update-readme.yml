@@ -27,9 +27,9 @@ jobs:
           version=$(cat VERSION.txt)
           date=$(cat DATE.txt)
           grep -v '**Current Version:**' .github/README.md > temp && mv temp .github/README.md
-          echo "**Current Version:** $version" >> .github/README.md
+          echo "$version" >> .github/README.md
           grep -v '**Release Date:**' .github/README.md > temp && mv temp .github/README.md
-          echo "**Release Date:** $date" >> .github/README.md
+          echo "$date" >> .github/README.md
 
       - name: Commit changes
         run: |
