@@ -1,4 +1,4 @@
-## HELP.smc BPS Release Notes
+## HELP.smc
 
 ### Overview:
 This release introduces the BPS patch for **HELP.smc**, allowing you to experience the eerie, suspenseful gameplay with ease. Apply this patch to your legally purchased copy of **Super Mario World** to dive into the chilling world of **HELP.smc**.
